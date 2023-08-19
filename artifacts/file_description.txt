@@ -1,2 +1,4 @@
 model_dict.pt -- model.py output, the trained model’s learned parameters
-node_embeddings.pkl -- 
+node_embeddings.pkl -- model.py output
+target_dict.pkl -- get_target.py output, targets for all proteins from STRING PPI network
+vector_dict.pkl -- get_kegg_dict.py output, dict with pathway vectors for all proteins from STRING PPI network
