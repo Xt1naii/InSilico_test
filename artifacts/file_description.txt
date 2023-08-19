@@ -1,0 +1,2 @@
+model_dict.pt -- model.py output, the trained model’s learned parameters
+node_embeddings.pkl -- 
